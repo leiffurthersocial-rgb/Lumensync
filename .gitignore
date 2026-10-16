@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.vercel
+.env*
+!.env.example
+.DS_Store
+public/vendor/libraw/
+next-env.d.ts
